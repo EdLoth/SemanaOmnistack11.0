@@ -26,10 +26,12 @@ Web, Mobile e API criados na "Semana Omnistack 11.0", com React, Native e Node j
 :clipboard:**Comandos**
 
 * Instalar React-App
-npm install -g create-react-app
+
+`npm install -g create-react-app`
 
 * Inicializar um App
-create-react-app minha-primeira-app
+
+`create-react-app minha-primeira-app`
 
 
 **-----------------------------**
