@@ -6,7 +6,7 @@ Web, Mobile e API criados na "Semana Omnistack 11.0", com React, Native e Node j
 
 - React Native
 - React
-- Node.js
+- Node
 - JavaScript
 
 :white_check_mark: **Freameworks:**
@@ -20,9 +20,9 @@ Web, Mobile e API criados na "Semana Omnistack 11.0", com React, Native e Node j
  :medal_sports:**Autores**
 | Foto                                                                                                                             | Nome                      | GitHub                                   | Likedin                                                 | E-mail                    |
 | -------------------------------------------------------------------------------------------------------------------------------- | ------------------------- | ---------------------------------------- | ------------------------------------------------------- | ------------------------- |
-| <img src="./Doc/Eduardo.jpg"  >| Eduardo Silveira Ramos | [EdLoth](https://github.com/EdLoth) | [Linkedin](https://www.linkedin.com/in/eduardo-ramos-31413b1a2/) | contatoeduardo.dev@gmail.com
+| <a href="https://imgur.com/DAMZCG5"><img src="https://i.imgur.com/DAMZCG5.jpg" width="150" title="source: imgur.com" /></a>| Eduardo Silveira Ramos | [EdLoth](https://github.com/EdLoth) | [Linkedin](https://www.linkedin.com/in/eduardo-ramos-31413b1a2/) | contatoeduardo.dev@gmail.com
 
-
+**<hr/>**
 :clipboard:**Comandos**
 
 * Instalar React-App
@@ -34,7 +34,8 @@ Web, Mobile e API criados na "Semana Omnistack 11.0", com React, Native e Node j
 `create-react-app minha-primeira-app`
 
 
-**-----------------------------**
+**<hr/>**
+
 **Comandos Native**
 
 * Instalar o Expo-cli
@@ -52,3 +53,4 @@ Web, Mobile e API criados na "Semana Omnistack 11.0", com React, Native e Node j
 * Start na aplicação
 
 `npm start`
+**<hr/>**
